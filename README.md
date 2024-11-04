@@ -4,7 +4,7 @@
 ------------
 
 
-### Integrantes:
+### Integrantes del grupo:
 - Abner Edin Esquit Gutiérrez 7691-20-12964
 - Ayker Desidery Hernández Montes 7691-22-11360
 - Daniel Estuardo Salazar Escobar 7691-22153
@@ -13,7 +13,7 @@
 ------------
 
 
-## Lineamientos:
+## Lineamientos a seguir:
 1. Crear una base de datos en **mysql**
 
 2. Crear el mantenimiento web (CRUD) de la tabla **Puestos**.
