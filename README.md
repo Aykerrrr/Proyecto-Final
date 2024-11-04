@@ -4,8 +4,11 @@ Empresa Web
 Integrantes del grupo
 
 Abner Edin Esquit Gutiérrez 7691-20-12964
+
 Ayker Desidery Hernández Montes 7691-22-11360
+
 Daniel Estuardo Salazar Escobar 7691-22153
+
 Dylan Fernando Alberto Escobar Aceituno 7691-22-13576
 
 
