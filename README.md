@@ -12,7 +12,10 @@ Daniel Estuardo Salazar Escobar 7691-22153
 Dylan Fernando Alberto Escobar Aceituno 7691-22-13576
 
 
+
+
 Lineamientos:
+
 Crear una base de datos en mysql
 
 Crear el mantenimiento web (CRUD) de la tabla Puestos.
